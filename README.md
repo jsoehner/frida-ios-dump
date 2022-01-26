@@ -1,5 +1,7 @@
 **python 3 please checkout 3.x branch**
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/1efe4088-efe6-48ec-bee5-f71183418bb2.svg?orgId=320408544746)](https://app.soluble.cloud/repos/details/github.com/jsoehner/frida-ios-dump?orgId=320408544746)  
+
 # frida-ios-dump
 Pull a decrypted IPA from a jailbroken device
 
